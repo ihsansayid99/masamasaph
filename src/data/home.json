@@ -1,0 +1,33 @@
+[
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "https://images.hindustantimes.com/img/2021/08/19/1600x900/patrick-dozkVhDyvhQ-unsplash_1628163163817_1629346849962.jpg",
+                "title": "Weeding Orginzer Best 2021",
+                "subTitle": "inspire 2026",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "buttonText": "Explore now"
+            },
+            {
+                "id": 2,
+                "backgroundImage": "https://images.hindustantimes.com/img/2021/08/19/1600x900/patrick-dozkVhDyvhQ-unsplash_1628163163817_1629346849962.jpg",
+                "title": "Vouge Italia Deember Campaign",
+                "subTitle": "inspire 2026",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "buttonText": "Explore now"
+            },
+            {
+                "id": 3,
+                "backgroundImage": "https://images.hindustantimes.com/img/2021/08/19/1600x900/patrick-dozkVhDyvhQ-unsplash_1628163163817_1629346849962.jpg",
+                "title": "Vouge Italia Deember Campaign",
+                "subTitle": "inspire 2026",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "buttonText": "Explore now"
+            }
+        ]
+    },
+    {
+        "qute": "Masamasa Photography Studio based in Cianjur, <br /> Indonesia. I specialises in shooting liquids and my colourful liquid work, titled “Biford”, has become very well <br /> known and collectable."
+    }
+]
